@@ -189,5 +189,5 @@ fig.suptitle('y_test vs y_pred', fontsize=20)              # Plot heading
 plt.xlabel('y_test', fontsize=18)                          # X-label
 plt.ylabel('y_pred', fontsize=16)   
 
-https://www.kaggle.com/arjunbhasin2013/ccdata
+
 
